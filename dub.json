@@ -6,7 +6,7 @@
 	"dependencies": {
 		"gtk-d": "~>3.9.0"
 	},
-	"description": "An  app that changes the extension of files to the specified extension by the user. It does not convert the file itself.",
+	"description": "Change an extension of all files with just one click!",
 	"license": "mit",
 	"name": "extension-er",
 	"targetPath": "bin"
